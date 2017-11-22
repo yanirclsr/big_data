@@ -1,6 +1,5 @@
-<h1>Hotels review - https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe</h1>
-
-<h2>Codebook for Hotel Reviews Dataset</h2>
+<h1>Codebook for Hotel Reviews Dataset</h1>
+Hotels review - https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
 
 <h3>Team</h3>
 Yanir Calisar
