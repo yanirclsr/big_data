@@ -12,15 +12,15 @@ The direct link to data is: <https://www.kaggle.com/jiashenliu/515k-hotel-review
 
 <h3>Business Goals</h3>
 <b>This data collected could be used to answer the following questions:</b>
-1. Which hotels are rated higher or lower than other based on guests’ reviews?
-2. For hotels which are in the lowest quartile, rating wise, are the negative reviews in average longer than the rest of the hotels?
-3. If there is a general rule we can infer from the data on the type of hotels and the population they are targeted to be rated higher than others?
-4. Where are the reviewed hotels located?
-5. What are the common negative/positive keywords guests use for their reviews
-6. Where would a family with young kids preferably be traveling to?
-7. If a successful SPA chain would like to open new branch - which of the hotels it should choose to do so?
-8. Is there a correlation between number of reviews the reviewer has given to their being more positive or negative?
-9. How are Israel hotels ranked vs. rest of Europe hotels?
+1. Is there any correlation between the local weather around the hotel location and Review Types (negative/positive)?
+	<u>Purpose:</u> Find patterns of negative positive reviews correlated to off/on-season stays
+2. Is there any correlation between the review type (negative/positive) and reviewers’ attributes (demographic/geographic)?
+	<u>Purpose</u> segmentation of the population which would be likely to review positively/negatively  hotels
+3. Generative model for new scoring for hotel location that leverages nearby attractions, restaurants and points of interest along with distance from city center ables to predict negative or positive reviews?
+	<u>Purpose</u> Generate combined data and scoring based on different parameters and 3rd party data
+4. What should be a predicted price/night for a hotel based on its similarity to other hotels, based on location (lat,lon), count of reviews, reviewers metadata?
+
+
 
 <b>Who needs to review your business questions before you analyze?</b>
 Depending on the business question raised, mainly review the data to ensure its completeness and integrity (full sequence over time, no missing records).
