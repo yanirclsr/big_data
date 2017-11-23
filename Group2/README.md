@@ -11,7 +11,7 @@ This data set located can be downloaded from Kaggle data sets, originated from B
 The direct link to data is: <https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe>
 
 <h3>Business Goals</h3>
-<b>This data collected could be used to answer the following questions:</b>
+<b>This data collected could be used to answer the following questions:</b><br/>
 1. Is there any correlation between the local weather around the hotel location and Review Types (negative/positive)?
 	<u>Purpose:</u> Find patterns of negative positive reviews correlated to off/on-season stays</br></br>
 2. Is there any correlation between the review type (negative/positive) and reviewers’ attributes (demographic/geographic)?
