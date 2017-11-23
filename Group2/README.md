@@ -26,7 +26,7 @@ The direct link to data is: <https://www.kaggle.com/jiashenliu/515k-hotel-review
 Depending on the business question raised, mainly review the data to ensure its completeness and integrity (full sequence over time, no missing records).
 
 Find an academic article (patent or blog) that relates to data similar to yours. What was the main conclusion on it. Can you look for similar conclusions in your data?
-Blog post by … at <https://monkeylearn.com/blog/machine-learning-hotel-reviews-insights/> revealed results of over 1M reviews recorded on TripAdvisor.
+Blog post by Bruno Stecanella at <https://monkeylearn.com/blog/machine-learning-hotel-reviews-insights/> revealed results of over 1M reviews recorded on TripAdvisor.
 As for the conclusions of the data - more reviews were positive, out of the negative reviews London was awarded with the highest percentage of negative reviews, there is a positive correlation between number of start to the positive percentage of reviews.
 
 
