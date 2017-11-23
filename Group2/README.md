@@ -13,12 +13,12 @@ The direct link to data is: <https://www.kaggle.com/jiashenliu/515k-hotel-review
 <h3>Business Goals</h3>
 <b>This data collected could be used to answer the following questions:</b>
 1. Is there any correlation between the local weather around the hotel location and Review Types (negative/positive)?
-	<u>Purpose:</u> Find patterns of negative positive reviews correlated to off/on-season stays
+	<u>Purpose:</u> Find patterns of negative positive reviews correlated to off/on-season stays</br></br>
 2. Is there any correlation between the review type (negative/positive) and reviewers’ attributes (demographic/geographic)?
-	<u>Purpose</u> segmentation of the population which would be likely to review positively/negatively  hotels
+	<u>Purpose:</u> segmentation of the population which would be likely to review positively/negatively hotels</br></br>
 3. Generative model for new scoring for hotel location that leverages nearby attractions, restaurants and points of interest along with distance from city center ables to predict negative or positive reviews?
-	<u>Purpose</u> Generate combined data and scoring based on different parameters and 3rd party data
-4. What should be a predicted price/night for a hotel based on its similarity to other hotels, based on location (lat,lon), count of reviews, reviewers metadata?
+	<u>Purpose:</u> Generate combined data and scoring based on different parameters and 3rd party data.</br>
+4. What should be a predicted price/night for a hotel based on its similarity to other hotels, based on location (lat,lon), count of reviews, reviewers metadata?</br>
 
 
 
